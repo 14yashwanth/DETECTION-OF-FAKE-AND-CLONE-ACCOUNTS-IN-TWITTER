@@ -1,0 +1,27 @@
+
+
+Service Provider
+
+View All Tweet Data Set Details,
+Search Tweet Data Set Details,
+View Fake Accounts,
+View All Remote Users,
+View Clone Account, 
+View Account Type Ratio Details,
+View Tweet Score Results,
+View Fake and Clone Account Ratio Results.
+
+Remote User
+REGISTER AND LOGIN,
+ADD TWEET DATA SETS,
+SEARCH ON TWEET DATA SET DETAILS,
+VIEW YOUR PROFILE,
+
+
+
+Members
+
+
+uname,dob,gender,address,location,emailid,mobile_no,
+names,tweet_desc,tweet_loc,tweet_date,score,
+
